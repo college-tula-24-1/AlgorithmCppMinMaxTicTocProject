@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AlgorithmCppMinMaxTicTocProject/AlgorithmCppMinMaxTicTocProject.vcxproj" Id="e8535fcb-311a-4595-9a7d-f5062aee879d" />
+</Solution>
